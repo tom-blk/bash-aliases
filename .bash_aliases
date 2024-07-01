@@ -7,4 +7,7 @@ alias gaa='git add .'
 alias gcm='git commit -m'
 alias gp='git push'
 alias gpu='git pull'
+alias gco='git checkout'
+alias gcb='git checkout -b'
+alias :q='exit'
 
