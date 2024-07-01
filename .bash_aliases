@@ -1,0 +1,10 @@
+alias la='ls -la'
+alias ..='cd ..'
+alias d='mkdir'
+alias f='touch'
+alias ,,='clear'
+alias gaa='git add .'
+alias gcm='git commit -m'
+alias gp='git push'
+alias gpu='git pull'
+
